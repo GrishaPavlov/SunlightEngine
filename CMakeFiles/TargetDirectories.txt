@@ -1,0 +1,9 @@
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/Game.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/GameObject.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/Map.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/TextureLoader.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/Vector2D.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/main.cpp.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/GameEngine.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/edit_cache.dir
+C:/Users/grish/CLionProjects/GameEngine/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GameEngine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Game.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Game.cpp-Debug-8ca8ac39bc2279dd9c46.json",
+					"name" : "Game.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GameEngine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameEngine-Debug-318d48732f9fa0c203e6.json",
+					"name" : "GameEngine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GameObject.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameObject.cpp-Debug-3bf788a767d166df33cf.json",
+					"name" : "GameObject.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Map.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Map.cpp-Debug-0d74dc56aa115eacac4a.json",
+					"name" : "Map.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureLoader.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureLoader.cpp-Debug-6681fa5febeda9c06247.json",
+					"name" : "TextureLoader.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Vector2D.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vector2D.cpp-Debug-30b5c1ca6fb61d291678.json",
+					"name" : "Vector2D.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.cpp-Debug-fa59acc1a579b8c7ba97.json",
+					"name" : "main.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/grish/CLionProjects/GameEngine",
+		"source" : "C:/Users/grish/CLionProjects/GameEngine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
